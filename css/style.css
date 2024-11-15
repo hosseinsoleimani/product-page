@@ -105,3 +105,9 @@ h1{
     }
 
 }
+
+.selected{
+    background-color: #f6f6f7;
+    border: 2px solid #220efa;
+    color: #220efa;
+}
